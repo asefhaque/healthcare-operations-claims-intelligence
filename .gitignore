@@ -1,0 +1,27 @@
+# Operating System Artifacts
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Python / R Environment Artifacts
+__pycache__/
+*.py[cod]
+*.Rhistory
+*.RData
+*.RDataTmp*
+.Rproj.user/
+.venv/
+.venv*/
+
+# Strictly Block Raw Claims Microdata (HIPAA & DUA Safeguard)
+*.TXT
+*.txt
+*.accdb
+*.xls
+*.xlsx
+*.zip
+*.tar.gz
+*.csv.gz
+raw_*/
+*patient*
+*discharge*

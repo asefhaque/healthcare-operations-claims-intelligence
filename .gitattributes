@@ -1,0 +1,4 @@
+# Healthcare Operations & Claims Intelligence
+# Mark R scripts as primary analytical code
+scripts/*.R linguist-detectable=true
+scripts/*.R linguist-language=R
